@@ -49,7 +49,7 @@ pyinstaller -w -F receipt_organizer.py
 
 ## Contributing
 
-my contrinution
+my contribution
 
 ## Authors
 
