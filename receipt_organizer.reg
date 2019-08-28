@@ -1,8 +1,7 @@
 ﻿Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\photo_organizer]
-@="Organize Receipts
-Here"
+@="Organize Receipts Here"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\photo_organizer\command]
 @="\"C:\Program Files\receipt organizer\dist\receipt_organizer.exe\" \"%v.\""
