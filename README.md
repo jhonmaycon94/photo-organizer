@@ -32,7 +32,7 @@ pip install pyinstaller
 To run a test, call the script inside a folder with receipts.
 
 ```
-python receipt_organizer.py .
+python receipt_organizer.py
 ```
 
 **For Windows in Context Menu:**
@@ -45,11 +45,11 @@ pyinstaller -w -F receipt_organizer.py
 
 2. Add the keys on Registry or run *receipt_organizer.reg*.
 3. Copy .exe file on *C:\Program Files\Receipt Organizer*
-4. Add *C:\Program Files\Receipt Organizer\build\* in the *Path* on Windows Environment Variable.
+4. Add *C:\Program Files\Receipt Organizer\dist\* in the *Path* on Windows Environment Variable.
 
 ## Contributing
 
-Feel free to submitting pull requests to us.
+my contrinution
 
 ## Authors
 
