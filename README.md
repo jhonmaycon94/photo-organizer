@@ -1,6 +1,6 @@
-# Python Photo Organizer
+# Python Receipt Organizer
 
-The most simple photo organizer ever! :p
+Simple receipt-organizer based upon the photo-organizer project. 
 
 ## Getting Started
 
@@ -20,12 +20,6 @@ A step by step series of examples that tell you how to get a development env run
 
 Install Python 3.x with pip
 
-Install Pillow, a Python Imaging Library
-
-```
-pip install Pillow
-```
-
 Install PyInstaller, to generate .exe file (for Windows)
 
 ```
@@ -35,10 +29,10 @@ pip install pyinstaller
 
 ## Running the tests
 
-To run a test, call the script inside a folder with photos.
+To run a test, call the script inside a folder with receipts.
 
 ```
-python photo-organizer.py .
+python receipt_organizer.py .
 ```
 
 **For Windows in Context Menu:**
@@ -46,12 +40,12 @@ python photo-organizer.py .
 1. To generate *photo-organizer.exe* file to run on Windows.
 
 ```
-pyinstaller -w -F photo-organizer.py
+pyinstaller -w -F receipt_organizer.py
 ```
 
-2. Add the keys on Registry or run *photo-organizer.reg*.
-3. Copy .exe file on *C:\Program Files\Photo Organizer*
-4. Add *C:\Program Files\Photo Organizer* in the *Path* on Windows Environment Variable.
+2. Add the keys on Registry or run *receipt_organizer.reg*.
+3. Copy .exe file on *C:\Program Files\Receipt Organizer*
+4. Add *C:\Program Files\Receipt Organizer\build\* in the *Path* on Windows Environment Variable.
 
 ## Contributing
 
