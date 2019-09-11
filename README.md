@@ -37,19 +37,19 @@ python receipt_organizer.py
 
 **For Windows in Context Menu:**
 
-1. To generate *photo-organizer.exe* file to run on Windows.
+1. To generate *receipt_organizer.exe* file to run on Windows.
 
 ```
 pyinstaller -w -F receipt_organizer.py
 ```
 
-2. Add the keys on Registry or run *receipt_organizer.reg*.
-3. Copy .exe file on *C:\Program Files\Receipt Organizer*
-4. Add *C:\Program Files\Receipt Organizer\dist\* in the *Path* on Windows Environment Variable.
+2. Add the keys on Registry or run *receipt_organizer.reg*
+3. Copy .exe file on *C:\Program Files\receipt organizer*
+4. Add *C:\Program Files\receipt organizer\dist\* in the *Path* on Windows Environment Variable.
 
 ## Contributing
 
-my contribution
+This is my contribution to the original project
 
 ## Authors
 
